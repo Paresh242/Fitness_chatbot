@@ -19,12 +19,6 @@ Ask Questions: Use the text input field to ask questions related to fitness or a
 
 View Chat History: The chat history is displayed below the input fields, showing the interaction between the user and the chatbot.
 # Installation:
-To run the Fitness Chatbot locally, follow these steps:
-
-Clone the repository:
-
-git clone git@github.com:JyotiJha01/Fitness_chatbot.git
-
 Create a virtual environment:
 
 conda create -n env
